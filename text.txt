@@ -1,0 +1,18 @@
+Learn with real work expericence and get guranteed placement as a Full-Stack or
+Backend Developer at product-based companies
+
+# Font awesome
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+# Font family
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800&display=swap');
+
+# Css Variables
+:root{
+    --color-dark: #183d40;
+    --color-faint: #184a4e;
+    --color-cyan: #40eec0;
+    --color-yellow: #fecf0f;
+    --common-radius: 0.4rem;
+}
+
